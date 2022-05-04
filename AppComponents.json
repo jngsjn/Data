@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "title":"Action Sheets",
+    "category":"views",
+    "description":"An action sheet is a specific style of alert that appears in response to a control or action, and presents a set of two or more choices related to the current context. Use an action sheet to let people initiate tasks, or to request confirmation before performing a potentially destructive operation. On smaller screens, an action sheet slides up from the bottom of the screen. On larger screens, an action sheet appears all at once as a popover."
+  },
+  {
+    "id":2,
+    "title":"Activity Views",
+    "category":"views",
+    "description":"An activity is a task, such as Copy, Favorite, or Find, that’s useful in the current context. Once initiated, an activity can perform a task immediately, or ask for more information before proceeding. Activities are managed by an activity view, which appears as a sheet or popover, depending on the device and orientation. Use activities to give people access to custom services or tasks your app can perform."
+  },
+  {
+    "id":3,
+    "title":"Alerts",
+    "category":"views",
+    "description":"Alerts convey important information related to the state of your app or the device. An alert consists of a title, an optional message, one or more buttons, and optional text fields for gathering input. Aside from these configurable elements, you can’t customize the visual appearance of an alert."
+  }
+]
